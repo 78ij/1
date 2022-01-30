@@ -1,0 +1,22 @@
+baseline_heru_ldroom
+tmp2 copy
+compute_pic
+tmp2
+wandb
+saved_operations
+baseline_random
+baseline_simanneal
+rendered
+baseline_for_render
+tmp
+/models
+__pycache__
+action_heru_ldroom
+baseline_heru
+tmp2 copy 2
+log
+RRT
+action_heru
+vised_living
+*.pth
+*.pkl

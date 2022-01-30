@@ -1,0 +1,1 @@
+python train_basic_network.py --model_version networkstructurenet --exp_name test7 --data_path ./complete_data_modified.pkl
